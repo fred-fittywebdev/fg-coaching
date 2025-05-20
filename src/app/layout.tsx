@@ -10,7 +10,7 @@ const archivo = Archivo({
 });
 
 export const metadata: Metadata = {
-  title: "Minimal Single Page Portfolio",
+  title: "Frédéric Guerra Coaching",
   description: "Created with Frontend Tribe",
 };
 
